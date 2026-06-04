@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+body {color: rgba(245, 243, 220, 0.94);
+    background-image: url(../images/nightwalk.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-weight: normal;
+    font-size: 20px;
+    margin-left: 30px;
+    line-height: 1.8;
+}
+
+h1,h2 {font-size: 40px;
+        font-family: "Zen Maru Gothic", sans-serif;
+    }
+
+
+a {color: rgba(247, 241, 234, 0.864);
+    font-family: "Kosugi Maru", sans-serif;
+    font-weight: bold;
+    text-decoration: none;}
+
+
+.N°5:hover{color: rgba(238, 242, 177, 0.852);}
+.ココマドモアゼル:hover{color: rgba(238, 152, 113, 0.819);}
+.チャンス:hover{color: rgba(245, 182, 82, 0.87);}
+.タンドゥル:hover{color: rgba(235, 158, 213, 0.847);}
+.フレッシュ:hover{color: rgba(121, 228, 228, 0.835);}
+.スプランディド:hover{color: rgba(200, 164, 233, 0.849);}
+.ガブリエル:hover{color: rgba(238, 209, 175, 0.84);}
+
+
+ul {list-style: none;
+   padding: 0; 
+}
+
+p {font-size: 20px;
+    font-family: "Zen Maru Gothic", sans-serif;}
+
+
