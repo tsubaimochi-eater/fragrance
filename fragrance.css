@@ -35,6 +35,31 @@ ul {list-style: none;
    padding: 0; 
 }
 
+
+p {font-size: 20px;
+    font-family: "Zen Maru Gothic", sans-serif;}
+
+
+
+.link-container {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.link-items {
+    color: rgba(245, 243, 220, 0.94);
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: border-color .8s;
+}
+
+.link-items:hover {
+    border-bottom: 2px solid rgba(236, 189, 151, 0.94);
+
+}
+
+
 p {font-size: 20px;
     font-family: "Zen Maru Gothic", sans-serif;}
 
